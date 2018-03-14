@@ -1,4 +1,4 @@
-t#!/bin/bash
+#!/bin/bash
 
 echo "OS Details"
 echo "-------------"
